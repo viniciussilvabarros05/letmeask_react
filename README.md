@@ -10,10 +10,8 @@ An interactive environment where the questions asked are performed in real time 
 </p>
 
 # Tecnologias
-<p> &#127919 HTML</p>
-<p> &#127919 CSS </p>
-<p> &#127919 Javascript <p>
-
+## <p> &#127919 HTML</p> | <p> &#127919 CSS </p> | <p> &#127919 Javascript <p> | <p> &#127919 React.js</p> | <p> &#127919 Firebase <p>
+ 
 # A PRESENTATION
 
  <a target="_blank" href="https://letmeask-web-8917e.web.app/"></a>
