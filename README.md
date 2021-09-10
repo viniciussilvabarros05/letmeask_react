@@ -2,7 +2,7 @@
 <p align="center" > &#127918 The letmeask</p>
 
 
-#💻 Sobre
+# 💻 Sobre
 <p>
 Project created in NLW together from rocketseat, using React, Firebase and api Context. 
 The project arose from the need to escalate the questions asked by the course community.
