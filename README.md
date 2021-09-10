@@ -1,8 +1,4 @@
-# <p align="center" >
-![letmeask-removebg-preview](https://user-images.githubusercontent.com/58434465/132910158-8e8c2819-71d9-4747-b583-c8606ce1e157.png)
-
-
-</p>
+# <p align="center" >![letmeask-removebg-preview](https://user-images.githubusercontent.com/58434465/132910473-1da0774b-4180-4a7b-9ce8-2a192b08db03.png)</p>
 <p align="center" > &#127918 The letmeask</p>
 
 
