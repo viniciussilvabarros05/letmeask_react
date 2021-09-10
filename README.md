@@ -10,7 +10,7 @@ An interactive environment where the questions asked are performed in real time 
 </p>
 
 # Tecnologias
-## <p> &#127919 HTML</p> | <p> &#127919 CSS </p> | <p> &#127919 Javascript <p> | <p> &#127919 React.js</p> | <p> &#127919 Firebase <p>
+## &#127919 HTML|  &#127919 CSS  |  &#127919 Javascript |  &#127919 React.js</p> | &#127919 Firebase 
  
 # A PRESENTATION
 
