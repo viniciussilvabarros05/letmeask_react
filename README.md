@@ -1,5 +1,5 @@
 # letmeask_react
-<p align="center" style="color:#835afd;" > &#127918 The letmeask</p>
+<p align="center" color="#835afd" > &#127918 The letmeask</p>
 
 
 # Sobre
